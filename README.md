@@ -2,18 +2,18 @@
 Generate frequent itemsets from vocab.txt and topic-i.txt to patterns/pattern-i.txt (where 0 <= i <= 4) using Apriori.
 
 ##vocab.txt
-A dictionary that maps a term to an index. 
-format: index	term
+A dictionary that maps a term to an index.<br>
+format: index	term<br>
 Columns are separated by a tab.
 
 ##topi-i.txt
-Input file of frequent pattern mining algorithms. Each line represents a transaction with indices of terms.
-format: term1_index term2_index term3_index ...
+Input file of frequent pattern mining algorithms. Each line represents a transaction with indices of terms.<br>
+format: term1_index term2_index term3_index ...<br>
 Columns are separated by a space.
 
 ##pattern-i.txt
-Output file of frequent pattern mining algorithms. Each line represents a transaction with frequent itemsets sorted in descending order of support count.
-format: support_count	term1 term2 ...
+Output file of frequent pattern mining algorithms. Each line represents a transaction with frequent itemsets sorted in descending order of support count.<br>
+format: support_count	term1 term2 ...<br>
 support_count and term1 are separated by a tab, while terms are separated by a space.
 
 ##Usage
