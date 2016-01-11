@@ -1,0 +1,62 @@
+474	clustering
+376	recognition
+339	method
+314	algorithm
+299	approach
+295	analysis
+280	classifier
+265	multi
+255	image
+240	kernel
+222	hierarchical
+208	data
+204	probabilistic
+200	via
+192	multiple
+186	structure
+179	combining
+178	class
+167	markov
+151	object
+150	segmentation
+149	active
+147	learning using
+146	feature selection
+144	detection
+136	boosting
+135	robust
+126	function
+126	estimation
+124	regression
+123	process
+123	linear
+123	improving
+121	variable
+121	neighbor nearest
+120	using model
+120	categorization
+115	support machine vector
+115	learning based
+113	online
+113	local
+113	learning machine
+113	extraction
+113	dynamic
+111	comparison
+109	ensemble
+108	ranking
+108	document
+108	classification text
+108	based model
+107	training
+107	network bayesian
+107	learning model
+105	unsupervised
+105	semi supervised
+105	prediction
+105	framework
+101	network neural
+99	mixture
+98	inference
+98	decision tree
+97	learning network
