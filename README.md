@@ -1,5 +1,4 @@
 #frequentPattern.py
-==========================
 Generate frequent itemsets from vocab.txt and topic-i.txt to patterns/pattern-i.txt (where 0 <= i <= 4) using Apriori.
 
 ##vocab.txt
@@ -23,7 +22,6 @@ support_count and term1 are separated by a tab, while terms are separated by a s
 - command to run the script: python frequentPattern.py
 
 #closedPattern.py
-==========================
 Generate closed patterns from patterns/pattern-i.txt to closed/closed-i.txt (where 0 <= i <= 4).
 
 ##closed-i.txt
@@ -35,7 +33,6 @@ The format is the same as pattern-i.txt.
 - command to run the script: python closedPattern.py
 
 #maxPattern.py
-==========================
 Generate max patterns from patterns/pattern-i.txt to max/max-i.txt (where 0 <= i <= 4).
 
 ##max-i.txt
